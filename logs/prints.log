@@ -540,3 +540,197 @@
 23:51:35.532 [main] INFO  stepdefinitions.FailTestCasesStepDefs - Driver is initialized
 23:51:36.616 [main] INFO  stepdefinitions.FailTestCasesStepDefs - Home Page URL opened
 23:51:45.746 [main] INFO  stepdefinitions.FailTestCasesStepDefs - Browser closed
+11:08:46.489 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Driver is initialized
+11:08:49.883 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Home Page URL opened
+11:08:49.898 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Home Page title verified
+11:08:51.575 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Sign In
+11:08:51.607 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Sign In Page title verified
+11:08:51.846 [main] INFO  stepdefinitions.BuildingStoryStepDefs - UserName entered
+11:08:52.087 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Password entered
+11:08:53.329 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Sign In to login
+11:08:54.432 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - User successfully signed in
+11:08:54.579 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on New Story
+11:09:00.719 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Title of the Story entered
+11:09:01.194 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Optional Text of the Story entered
+11:09:01.293 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Add image or video
+11:09:01.386 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Browse your files
+11:09:03.979 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Image uploaded successfully using AutoIT
+11:09:04.554 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Image is successfully uploaded as Delete button is available
+11:09:04.737 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Add to add image is cover
+11:09:05.366 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Image is successfully uploaded as Cover Image
+11:09:05.694 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on add content
+11:09:06.105 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Heading
+11:09:08.750 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Heading text entered
+11:09:08.962 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on add content
+11:09:09.079 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Image
+11:09:09.193 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Browse your files
+11:09:11.330 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Image uploaded successfully using AutoIT
+11:09:11.699 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Image is successfully uploaded as Delete button is available
+11:09:11.943 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Add to add image is cover
+11:09:12.245 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Uploaded Image verified
+11:09:12.532 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on add content
+11:09:12.734 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Map
+11:09:13.562 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Living Atlas
+11:09:14.988 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Living Atlas map selected
+11:09:20.332 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Chosen Living Atlas map placed in story
+11:09:22.190 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Selected Map verified
+11:09:22.633 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User go back to My Stories page
+11:09:24.089 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Created Story verified
+11:09:24.213 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User click on his profile
+11:09:25.553 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User click on Sign Out
+11:09:25.560 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - No Alert present
+11:09:29.314 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Sign Out Successfully
+11:09:30.454 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Browser closed
+11:09:35.903 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Driver is initialized
+11:09:36.920 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Home Page URL opened
+11:09:36.930 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Home Page title verified
+11:09:38.401 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Sign In
+11:09:38.411 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Sign In Page title verified
+11:09:38.495 [main] INFO  stepdefinitions.BuildingStoryStepDefs - UserName entered
+11:09:38.619 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Password entered
+11:09:39.433 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Sign In to login
+11:09:41.045 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Already Created Story verified
+11:09:41.217 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User click on Context Menu for Story
+11:09:41.294 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User click on Delete
+11:09:41.375 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User confirm Delete
+11:09:42.691 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Deletion verified
+11:09:42.769 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User click on his profile
+11:09:43.916 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User click on Sign Out
+11:09:43.920 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - No Alert present
+11:09:47.684 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Sign Out Successfully
+11:09:48.883 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Browser closed
+11:09:54.358 [main] INFO  stepdefinitions.FailTestCasesStepDefs - Driver is initialized
+11:09:55.509 [main] INFO  stepdefinitions.FailTestCasesStepDefs - Home Page URL opened
+11:10:01.677 [main] INFO  stepdefinitions.FailTestCasesStepDefs - Browser closed
+11:10:07.126 [main] INFO  stepdefinitions.FailTestCasesStepDefs - Driver is initialized
+11:10:08.066 [main] INFO  stepdefinitions.FailTestCasesStepDefs - Home Page URL opened
+11:10:19.792 [main] INFO  stepdefinitions.FailTestCasesStepDefs - Browser closed
+12:25:50.778 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Driver is initialized
+12:25:52.273 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Home Page URL opened
+12:25:52.289 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Home Page title verified
+12:25:54.038 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Sign In
+12:25:54.055 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Sign In Page title verified
+12:25:54.351 [main] INFO  stepdefinitions.BuildingStoryStepDefs - UserName entered
+12:25:54.465 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Password entered
+12:25:55.372 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Sign In to login
+12:25:56.258 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - User successfully signed in
+12:25:56.376 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on New Story
+12:26:07.753 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Title of the Story entered
+12:26:08.267 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Optional Text of the Story entered
+12:26:08.387 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Add image or video
+12:26:08.471 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Browse your files
+12:26:10.801 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Image uploaded successfully using AutoIT
+12:26:11.349 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Image is successfully uploaded as Delete button is available
+12:26:11.451 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Add to add image is cover
+12:26:12.005 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Image is successfully uploaded as Cover Image
+12:26:12.192 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on add content
+12:26:12.518 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Heading
+12:26:15.077 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Heading text entered
+12:26:15.224 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on add content
+12:26:15.338 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Image
+12:26:15.418 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Browse your files
+12:26:17.464 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Image uploaded successfully using AutoIT
+12:26:17.860 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Image is successfully uploaded as Delete button is available
+12:26:18.044 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Add to add image is cover
+12:26:18.349 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Uploaded Image verified
+12:26:18.575 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on add content
+12:26:18.717 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Map
+12:26:19.446 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Living Atlas
+12:26:20.634 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Living Atlas map selected
+12:26:24.840 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Chosen Living Atlas map placed in story
+12:26:26.776 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Selected Map verified
+12:26:27.102 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User go back to My Stories page
+12:26:29.026 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Created Story verified
+12:26:29.116 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User click on his profile
+12:26:29.491 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User click on Sign Out
+12:26:35.204 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Sign Out Successfully
+12:26:36.523 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Browser closed
+12:26:41.829 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Driver is initialized
+12:26:43.123 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Home Page URL opened
+12:26:43.134 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Home Page title verified
+12:26:44.954 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Sign In
+12:26:44.958 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Sign In Page title verified
+12:26:45.221 [main] INFO  stepdefinitions.BuildingStoryStepDefs - UserName entered
+12:26:45.375 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Password entered
+12:26:47.424 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Sign In to login
+12:26:49.230 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Already Created Story verified
+12:26:49.443 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User click on Context Menu for Story
+12:26:49.622 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User click on Delete
+12:26:49.782 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User confirm Delete
+12:26:51.123 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Deletion verified
+12:26:51.180 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User click on his profile
+12:26:52.848 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User click on Sign Out
+12:26:52.849 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - No Alert present
+12:26:56.868 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Sign Out Successfully
+12:26:58.020 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Browser closed
+12:27:03.339 [main] INFO  stepdefinitions.FailTestCasesStepDefs - Driver is initialized
+12:27:06.560 [main] INFO  stepdefinitions.FailTestCasesStepDefs - Home Page URL opened
+12:27:12.080 [main] INFO  stepdefinitions.FailTestCasesStepDefs - Browser closed
+12:27:17.385 [main] INFO  stepdefinitions.FailTestCasesStepDefs - Driver is initialized
+12:27:18.569 [main] INFO  stepdefinitions.FailTestCasesStepDefs - Home Page URL opened
+12:27:28.848 [main] INFO  stepdefinitions.FailTestCasesStepDefs - Browser closed
+12:43:38.882 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Driver is initialized
+12:43:40.149 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Home Page URL opened
+12:43:40.157 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Home Page title verified
+12:43:42.557 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Sign In
+12:43:42.567 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Sign In Page title verified
+12:43:42.692 [main] INFO  stepdefinitions.BuildingStoryStepDefs - UserName entered
+12:43:42.792 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Password entered
+12:43:44.321 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Sign In to login
+12:43:45.777 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - User successfully signed in
+12:43:45.891 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on New Story
+12:43:54.399 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Title of the Story entered
+12:43:54.831 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Optional Text of the Story entered
+12:43:54.959 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Add image or video
+12:43:55.033 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Browse your files
+12:43:58.375 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Image uploaded successfully using AutoIT
+12:43:58.825 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Image is successfully uploaded as Delete button is available
+12:43:58.913 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Add to add image is cover
+12:43:59.706 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Image is successfully uploaded as Cover Image
+12:43:59.969 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on add content
+12:44:00.310 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Heading
+12:44:02.895 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Heading text entered
+12:44:03.015 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on add content
+12:44:03.148 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Image
+12:44:03.251 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Browse your files
+12:44:05.311 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Image uploaded successfully using AutoIT
+12:44:05.670 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Image is successfully uploaded as Delete button is available
+12:44:05.865 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Add to add image is cover
+12:44:06.263 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Uploaded Image verified
+12:44:06.478 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on add content
+12:44:06.682 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Map
+12:44:07.393 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Living Atlas
+12:44:09.008 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Living Atlas map selected
+12:44:13.405 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Chosen Living Atlas map placed in story
+12:44:15.781 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Selected Map verified
+12:44:16.208 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User go back to My Stories page
+12:44:18.564 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Created Story verified
+12:44:18.645 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User click on his profile
+12:44:22.212 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User click on Sign Out
+12:44:22.216 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - No Alert present
+12:44:26.361 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Sign Out Successfully
+12:44:27.491 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Browser closed
+12:44:32.784 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Driver is initialized
+12:44:34.201 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Home Page URL opened
+12:44:34.207 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Home Page title verified
+12:44:35.922 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Sign In
+12:44:35.938 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Sign In Page title verified
+12:44:36.059 [main] INFO  stepdefinitions.BuildingStoryStepDefs - UserName entered
+12:44:36.166 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Password entered
+12:44:37.216 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User clicks on Sign In to login
+12:44:39.357 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Already Created Story verified
+12:44:39.503 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User click on Context Menu for Story
+12:44:39.675 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User click on Delete
+12:44:39.805 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User confirm Delete
+12:44:41.675 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Deletion verified
+12:44:41.736 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User click on his profile
+12:44:45.209 [main] INFO  stepdefinitions.BuildingStoryStepDefs - User click on Sign Out
+12:44:45.212 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - No Alert present
+12:44:49.378 [main] DEBUG stepdefinitions.BuildingStoryStepDefs - Sign Out Successfully
+12:44:50.349 [main] INFO  stepdefinitions.BuildingStoryStepDefs - Browser closed
+12:44:55.716 [main] INFO  stepdefinitions.FailTestCasesStepDefs - Driver is initialized
+12:44:56.674 [main] INFO  stepdefinitions.FailTestCasesStepDefs - Home Page URL opened
+12:45:01.564 [main] INFO  stepdefinitions.FailTestCasesStepDefs - Browser closed
+12:45:06.807 [main] INFO  stepdefinitions.FailTestCasesStepDefs - Driver is initialized
+12:45:07.823 [main] INFO  stepdefinitions.FailTestCasesStepDefs - Home Page URL opened
+12:45:17.613 [main] INFO  stepdefinitions.FailTestCasesStepDefs - Browser closed

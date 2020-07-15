@@ -2,19 +2,19 @@
 <testng-results skipped="0" failed="1" ignored="0" total="2" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="All Test Suite" duration-ms="104810" started-at="2020-07-14T23:50:01 PDT" finished-at="2020-07-14T23:51:45 PDT">
+  <suite name="All Test Suite" duration-ms="105676" started-at="2020-07-15T12:43:32 PDT" finished-at="2020-07-15T12:45:17 PDT">
     <groups>
       <group name="cucumber">
         <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:cucumberoptions.TestRunner@5f9d02cb]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test name="POC Test Cases" duration-ms="104810" started-at="2020-07-14T23:50:01 PDT" finished-at="2020-07-14T23:51:45 PDT">
+    <test name="POC Test Cases" duration-ms="105676" started-at="2020-07-15T12:43:32 PDT" finished-at="2020-07-15T12:45:17 PDT">
       <class name="cucumberoptions.TestRunner">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:cucumberoptions.TestRunner@5f9d02cb]" name="setUpClass" is-config="true" duration-ms="139" started-at="2020-07-14T23:50:01 PDT" finished-at="2020-07-14T23:50:01 PDT">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:cucumberoptions.TestRunner@5f9d02cb]" name="setUpClass" is-config="true" duration-ms="176" started-at="2020-07-15T12:43:32 PDT" finished-at="2020-07-15T12:43:32 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:cucumberoptions.TestRunner@5f9d02cb]" name="feature" duration-ms="78425" started-at="2020-07-14T23:50:01 PDT" description="Runs Cucumber Feature" data-provider="features" finished-at="2020-07-14T23:51:19 PDT">
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:cucumberoptions.TestRunner@5f9d02cb]" name="feature" duration-ms="77908" started-at="2020-07-15T12:43:32 PDT" description="Runs Cucumber Feature" data-provider="features" finished-at="2020-07-15T12:44:50 PDT">
           <params>
             <param index="0">
               <value>
@@ -25,7 +25,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- feature -->
-        <test-method status="FAIL" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:cucumberoptions.TestRunner@5f9d02cb]" name="feature" duration-ms="26004" started-at="2020-07-14T23:51:19 PDT" description="Runs Cucumber Feature" data-provider="features" finished-at="2020-07-14T23:51:45 PDT">
+        <test-method status="FAIL" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:cucumberoptions.TestRunner@5f9d02cb]" name="feature" duration-ms="27262" started-at="2020-07-15T12:44:50 PDT" description="Runs Cucumber Feature" data-provider="features" finished-at="2020-07-15T12:45:17 PDT">
           <params>
             <param index="0">
               <value>
@@ -87,11 +87,11 @@ at ✽.Then Verify heading of the Home Page should be "ArcGIS"(VerifyFailFeature
           <reporter-output>
           </reporter-output>
         </test-method> <!-- feature -->
-        <test-method status="PASS" signature="writeExtentReport()[pri:0, instance:cucumberoptions.TestRunner@5f9d02cb]" name="writeExtentReport" is-config="true" duration-ms="3" started-at="2020-07-14T23:51:45 PDT" finished-at="2020-07-14T23:51:45 PDT">
+        <test-method status="PASS" signature="writeExtentReport()[pri:0, instance:cucumberoptions.TestRunner@5f9d02cb]" name="writeExtentReport" is-config="true" duration-ms="5" started-at="2020-07-15T12:45:17 PDT" finished-at="2020-07-15T12:45:17 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- writeExtentReport -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:cucumberoptions.TestRunner@5f9d02cb]" name="tearDownClass" is-config="true" duration-ms="166" started-at="2020-07-14T23:51:45 PDT" finished-at="2020-07-14T23:51:45 PDT">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:cucumberoptions.TestRunner@5f9d02cb]" name="tearDownClass" is-config="true" duration-ms="239" started-at="2020-07-15T12:45:17 PDT" finished-at="2020-07-15T12:45:17 PDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
