@@ -1,6 +1,7 @@
 @Story
 Feature: Verify Building New Story
 
+  @Regression
   Scenario: Verify Building Story with some text, image and map
     Given User navigates to website URL and clicks on Sign In
     And User Sign In using his credentials

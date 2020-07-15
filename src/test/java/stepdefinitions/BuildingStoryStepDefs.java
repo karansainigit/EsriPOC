@@ -1,6 +1,7 @@
 package stepdefinitions;
 
 import com.cucumber.listener.Reporter;
+import cucumber.api.PendingException;
 import cucumber.api.Scenario;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
@@ -36,13 +37,13 @@ public class BuildingStoryStepDefs extends Base {
     SignInPageObjects signInPage;
     LoggedInPageObjects loggedInPage;
 
-    @Before("@Story")
+    @Before("@Story,@Regression")
     public void initializeBrowser() throws IOException {
         driver = initializeDriver();
         log.info("Driver is initialized");
     }
 
-    @After("@Story")
+    @After("@Story,@Regression")
     public void tearDown(Scenario scenario) throws IOException {
         if (scenario.isFailed()) {
             // Take a screenshot...
@@ -87,10 +88,10 @@ public class BuildingStoryStepDefs extends Base {
 
     @When("^User clicks on New Story$")
     public void user_clicks_on_new_story() throws Throwable {
-        Assert.assertEquals(driver.getTitle(),prop.getProperty("loggedinpagetitle"));
-        log.debug("Logged In Page title verified");
-
         loggedInPage = new LoggedInPageObjects(driver);
+
+        Assert.assertTrue(loggedInPage.clickYourProfile().isDisplayed());
+        log.debug("User successfully signed in");
 
         loggedInPage.clickNewStory().click();
         log.info("User clicks on New Story");

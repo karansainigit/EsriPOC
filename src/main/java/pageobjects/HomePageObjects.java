@@ -20,4 +20,18 @@ public class HomePageObjects {
     public WebElement clickSignIn() {
         return signIn;
     }
+
+    @FindBy(xpath = "//a[contains(@class,'logo-link')]/following-sibling::h1")
+    private WebElement homePageHeading;
+
+    public WebElement getHomePageHeading() {
+        return homePageHeading;
+    }
+
+    @FindBy(xpath = "//main //img[contains(@class,'homepagelogo')]")  //logo
+    private WebElement homePageLogo;
+
+    public WebElement getHomePageLogo() {
+        return homePageLogo;
+    }
 }
